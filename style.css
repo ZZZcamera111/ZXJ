@@ -42,7 +42,7 @@ main{
         background-color: #303c32;
         color: rgb(47, 53, 53);
         height: 85vh;
-        background-image: url("images/ME.jpg");
+        background-image: url("images/XY1.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -137,6 +137,11 @@ main{
             font-size: 30px;
             margin: 20px 0;
         }
+        a {
+            color: yellow;
+            font-size: 35px;
+            margin: 20px 0;
+        }
     }
     .XY {
         background-color: #f2f2f2;
@@ -179,6 +184,66 @@ main{
             font-size: 30px;
             margin: 20px 0;
         }
+    }
+    .Inf {
+        h2 {
+            color: #323030;
+            font-size: 75px;
+        }
+        p {
+            color: #000000;
+            font-size: 40px;
+        }
+        background-image: url("images/YZJ2.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height:75vh;
+    }
+    .Game {
+        h2 {
+            color: #323030;
+            font-size: 75px;
+        }
+        p {
+            color: #000000;
+            font-size: 40px;
+        }
+        background-image: url("images/YZJ2.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height:75vh;
+    }
+    .Game {
+        h2 {
+            color: #323030;
+            font-size: 75px;
+        }
+        p {
+            color: #f8f8f8;
+            font-size: 40px;
+        }
+        background-image: url("images/laugh.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height:75vh;
+    }
+    .Che {
+        h2 {
+            color: #323030;
+            font-size: 75px;
+        }
+        p {
+            color: #000000;
+            font-size: 40px;
+        }
+        background-image: url("images/Wash\ head.jpg");
+        background-repeat: no-repeat;
+        background-position:center;
+        background-size: cover;
+        height:75vh;
     }
     background-color:rgb(86, 89, 87);
     h2{
