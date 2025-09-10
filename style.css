@@ -42,7 +42,7 @@ main{
         background-color: #303c32;
         color: rgb(47, 53, 53);
         height: 85vh;
-        background-image: url("ZXJ/images/XY1.jpg");
+        background-image: url("images/XY1.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -72,7 +72,7 @@ main{
     }
     .Grade{
         background-color: #544141;
-        background-image: url("ZXJ/images/ME2.jpg");
+        background-image: url("images/ME2.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         background-position: -15vh;
@@ -98,7 +98,7 @@ main{
     }
     .Me {
         background-color: azure;
-        background-image: url("ZXJ/images/ME3.jpg");
+        background-image: url("images/ME3.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -119,7 +119,7 @@ main{
     }
     .YZJ {
         background-color: #f2f2f2;
-        background-image: url("ZXJ/images/YZJ2.jpg");
+        background-image: url("images/YZJ2.jpg");
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -145,7 +145,7 @@ main{
     }
     .XY {
         background-color: #f2f2f2;
-        background-image: url("ZXJ/images/XY1.jpg");
+        background-image: url("images/XY1.jpg");
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -166,7 +166,7 @@ main{
     }
     .ZKY {
         background-color: #f2f2f2;
-        background-image: url("ZXJ/images/ZKY1.jpg");
+        background-image: url("images/ZKY1.jpg");
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -194,7 +194,7 @@ main{
             color: #000000;
             font-size: 40px;
         }
-        background-image: url("ZXJ/images/YZJ2.jpg");
+        background-image: url("images/YZJ2.jpg");
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -209,7 +209,7 @@ main{
             color: #000000;
             font-size: 40px;
         }
-        background-image: url("ZXJ/images/YZJ2.jpg");
+        background-image: url("images/YZJ2.jpg");
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -224,7 +224,7 @@ main{
             color: #f8f8f8;
             font-size: 40px;
         }
-        background-image: url("ZXJ/images/laugh.jpg");
+        background-image: url("images/laugh.jpg");
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -239,7 +239,7 @@ main{
             color: #000000;
             font-size: 40px;
         }
-        background-image: url("ZXJ/images/Wash\ head.jpg");
+        background-image: url("images/Wash\ head.jpg");
         background-repeat: no-repeat;
         background-position:center;
         background-size: cover;
